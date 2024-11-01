@@ -1,0 +1,20 @@
+@media only screen and (max-width: 480px){ 
+    body{
+        font-size: 17px;
+    }
+
+    .countdown-item {
+        min-width: 55px;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    body{
+        font-size: 14px;
+    }
+
+    .countdown-item {
+        min-width: 35px;
+    }
+}
+
